@@ -11,7 +11,7 @@
 | ご自身で手配いただくもの    | 個数            | 例(参考リンク) |
 | :-------------------------- | :-------------- | :-------------- |
 | 表面実装ダイオード(1N4148W) | 9個             | https://shop.yushakobo.jp/products/a0800di-02-100?variant=37665574420641 |
-| タクトスイッチ(6x6x5mm 2pin)| 16個             | https://shop.yushakobo.jp/products/a0800ts-02-1 |
+| タクトスイッチ<br>(6x6x5mm 2pin)| 18個             | https://shop.yushakobo.jp/products/a0800ts-02-1 |
 | ホットスワップ<br>(MX用orロープロファイル)|最大58個| https://shop.yushakobo.jp/products/a01ps?variant=37665172521121 |
 | キースイッチ<br>(MX互換orロープロファイル)|最大58個| ※ロープロファイルは未対応です。 |
 | ロータリーエンコーダ<br>(軸形状:Dカット、高さ20mm)| 任意(おすすめ2個) | https://shop.yushakobo.jp/products/3762?variant=42672275292391 |
