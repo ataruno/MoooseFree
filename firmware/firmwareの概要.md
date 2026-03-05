@@ -1,4 +1,18 @@
 # firmwareの概要  
+## MoooseFree_firmware_158  
+左手側のエンコーダの反応が悪いのを修正しました。  
+以前よりもかなり動作が改善したかと思います。  
+また、レイヤ－2,3(ARROW,NUM)を押しながらエンコーダを回すと、Ctrl+tab/Ctrl+Shift+tabになるようにしました。  
+Webブラウザなどでタブ移動することを想定しています。  
+
+具体的な修正点としては、MoooseFree_left.confの設定を見直しました。  
+CONFIG_EC11=y  
+CONFIG_EC11_TRIGGER_OWN_THREAD=y  
+CONFIG_EC11_THREAD_PRIORITY=7  
+CONFIG_EC11_THREAD_STACK_SIZE=2048  
+としています。
+特にCONFIG_EC11_TRIGGER_OWN_THREADを有効にしたところがポイントです。  
+
 ## MoooseFree_firmware_120  
 ### 110のバグ修正版  
 音量設定が動作するように一部修正しました。  
