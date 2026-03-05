@@ -1,6 +1,4 @@
-# firmwareの概要  
-firmwareの更新ログです。  
-
+# MoooseFreeのfirmware更新ログ  
 ## [MoooseFree_firmware_158](https://github.com/ataruno/MoooseFree/tree/main/firmware/MoooseFree_firmware_158)  
 左手側のエンコーダの反応が悪いのを修正しました。  
 以前よりもかなり動作が改善したかと思います。  
