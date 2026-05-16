@@ -39,7 +39,7 @@
 | ホットスワップ<br>(MX用orロープロファイル)|最大58個| https://shop.yushakobo.jp/products/a01ps?variant=37665172521121 |
 | キースイッチ<br>(MX互換orロープロファイル)|最大58個| ケースがVer2になりMX互換にもロープロファイルにも対応しました |
 | ロータリーエンコーダ<br>(軸形状:Dカット、おすすめ高さ17.5mm)| 任意(おすすめ2個) | https://shop.yushakobo.jp/products/3762?variant=46240750436583 |
-| リチウムイオンバッテリ<br>(※無線にする際の構成例)<br>45mm(横) x 28mm(縦) x 6mm(厚さ)より一回り小さいもの| 2個(左右1個ずつ)            | ・EEMBリチウムポリマー 電池 3.7V 500 mAh<br>・EEMBリチウムポリマーバッテリー 3.7V 250mAh<br>・EEMBリチウムポリマー電池 3.7 V 360 mAh <br>https://www.amazon.co.jp/EEMB%E3%83%AA%E3%83%81%E3%82%A6%E3%83%A0%E3%83%9D%E3%83%AA%E3%83%9E%E3%83%BC%E9%9B%BB%E6%B1%A03-7-552036-Lipo%E5%85%85%E9%9B%BB%E5%8F%AF%E8%83%BD%E9%9B%BB%E6%B1%A0%E3%83%91%E3%83%83%E3%82%AF%E3%80%81VXI-Blue-Parrott%E4%BB%98%E3%81%8DJST%E3%82%B3%E3%83%8D%E3%82%AF%E3%82%BF-%E8%B3%BC%E5%85%A5%E5%89%8D%E3%81%AB%E6%A9%9F%E5%99%A8%E3%81%A8%E3%82%B3%E3%83%8D%E3%82%AF%E3%82%BF%E3%81%AE%E6%A5%B5%E6%80%A7%E3%82%92%E7%A2%BA%E8%AA%8D%E3%81%99%E3%82%8B/dp/B09DPNZM31/ref=sr_1_6?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&sr=8-6 |
+| リチウムイオンバッテリ<br>(※無線にする際の構成例)<br>45mm(横) x 28mm(縦) x 6mm(厚さ)より一回り小さいもの| 2個(左右1個ずつ)            | ・EEMBリチウムポリマー 電池 3.7V 360 mAh<br>・EEMBリチウムポリマーバッテリー 3.7V 250mAh<br>・EEMBリチウムポリマー電池 3.7 V 200 mAh https://www.amazon.co.jp/dp/B08XJZZMN3?psc=1 <br>など|
 
 ※小さい部品などは少し多めに調達しておくと良いです。  
   ミスしたときに再度買うとなると送料もかかってしまうので。
